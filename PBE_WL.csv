@@ -7,7 +7,7 @@ PBE_WL,1,number,Known Error ID,
 PBE_WL,1,description,Description,
 PBE_WL,1,comments,Detailed Description,
 PBE_WL,1,channel,Communication Source,cast.channel
-PBE_WL,1,state,Status,val.state
+PBE_WL,1,state,Status,map.state
 PBE_WL,1,opened_by_id,Submitter,cast.uid
 PBE_WL,1,opened_at,Submit Date,
 PBE_WL,1,updated_by,Submitter,

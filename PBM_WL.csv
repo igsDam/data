@@ -1,14 +1,14 @@
-form,enabled,sink,orginial,def
-PBM_WL,1,tbl,,tmp_stg.sg_itsm
-PBM_WL,1,filter,,dft.PBM_WL
-PBM_WL,1,transfer_reason,Work Log Type,
-PBM_WL,1,id,Problem Investigation ID,seq
-PBM_WL,1,number,Problem Investigation ID,
-PBM_WL,1,description,Description,
-PBM_WL,1,comments,Detailed Description,
-PBM_WL,1,channel,Communication Source,cast.channel
-PBM_WL,1,state,Status,val.state
-PBM_WL,1,opened_by_id,Submitter,cast.uid
-PBM_WL,1,opened_at,Submit Date,
-PBM_WL,1,updated_by,Submitter,
-PBM_WL,1,updated_time,Submit Date,
+form,enabled,sink,orginial,def,,,,,
+PBM_WL,1,tbl,,tmp_stg.sg_itsm,,,,,
+PBM_WL,1,filter,,dft.PBM_WL,,,,,
+PBM_WL,1,transfer_reason,Work Log Type,,,,,,
+PBM_WL,1,id,Problem Investigation ID,seq,,,,,
+PBM_WL,1,number,Problem Investigation ID,,,,,,
+PBM_WL,1,description,Description,,,,,,
+PBM_WL,1,comments,Detailed Description,,,,,,
+PBM_WL,1,channel,Communication Source,cast.channel,,,,,
+PBM_WL,1,state,Status,map.state,,,,,
+PBM_WL,1,opened_by_id,Submitter,cast.uid,,,,,s
+PBM_WL,1,opened_at,Submit Date,,,,,,
+PBM_WL,1,updated_by,Submitter,,,,,,
+PBM_WL,1,updated_time,Submit Date,,,,,,

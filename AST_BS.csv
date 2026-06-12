@@ -12,9 +12,9 @@ AST_BS,1,company,Company,
 AST_BS,1,primary_capability,System Role,
 AST_BS,1,capability_list,User Affected,
 AST_BS,1,status_reason,Sub Type,
-AST_BS,1,impact,Assigned Group,val.impact
-AST_BS,1,urgency,First Line Suport,val.urgency
-AST_BS,1,priority,BIA,val.priority
+AST_BS,1,impact,Assigned Group,map.impact
+AST_BS,1,urgency,First Line Suport,map.urgency
+AST_BS,1,priority,BIA,map.priority
 AST_BS,1,users_affect,Public Facing Application,
 AST_BS,1,prod_category1,Prod Category Tier 1,
 AST_BS,1,prod_category2,Prod Category Tier 2,

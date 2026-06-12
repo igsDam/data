@@ -7,9 +7,9 @@ CHG,1,requested_by_id,ASCHG,cast.uid
 CHG,1,business_service_id,ServiceCI,cast.business_service_id
 CHG,1,short_description,Description,
 CHG,1,description,Detailed Description,
-CHG,1,type,Change Timing,val.class
+CHG,1,type,Change Timing,map.class
 CHG,1,risk,Risk Level,cast.risk
-CHG,1,state,z1D Status,val.state
+CHG,1,state,z1D Status,map.state
 CHG,1,category,Change Nature Tier 1,cast.category  
 CHG,1,assigned_to_user_id,Assignee,cast.uid
 CHG,1,start_date,Scheduled Start Date,

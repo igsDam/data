@@ -7,7 +7,7 @@ CHG_WL,1,number,Infrastructure Change ID,
 CHG_WL,1,description,Description,
 CHG_WL,1,comments,Detailed Description,
 CHG_WL,1,channel,Communication Source,cast.channel
-CHG_WL,1,state,Status,val.state
+CHG_WL,1,state,Status,map.state
 CHG_WL,1,opened_by_id,Submitter,cast.uid
 CHG_WL,1,opened_at,Submit Date,
 CHG_WL,1,updated_by,Submitter,

@@ -9,14 +9,14 @@ HPD,1,short_description,Description,
 HPD,1,configuration_item_service,ServiceDown,cast.configuration_item_service
 HPD,1,configuration_item,HPD_CI,cast.configuration_item
 HPD,1,impact,Impact,cast.impact
-HPD,1,urgency,Urgency,val.urgency
-HPD,1,priority,Priority,val.priority
+HPD,1,urgency,Urgency,map.urgency
+HPD,1,priority,Priority,map.priority
 HPD,1,channel,Reported Source,cast.channel
 HPD,1,assignment_group_id,Assigned Group,cast.gid
 HPD,1,assigned_sys_user_id,Assignee,cast.uid
 HPD,1,third_party_type,Vendor Group,
 HPD,1,third_party_key,Vendor Ticket Number,
-HPD,1,state,Status,val.state
+HPD,1,state,Status,map.state
 HPD,1,resolution_notes,Resolution,
 HPD,1,category,Categorization Tier 1,cast.category
 HPD,1,sub_category,Categorization Tier 2,cast.category
