@@ -1,0 +1,453 @@
+sid,type,code,val,form,created_by,creation_time
+50,configuration_item_service,Service Down,,,manual,2026-06-12
+50,configuration_item,ProductDeployment module on Apache Tomcat Application Server 7 on vmapp1495,,,manual,2026-06-12
+50,impact,3 - Low,-1,,manual,2026-06-12
+50,impact,1 - High,-1,,manual,2026-06-12
+50,impact,2 - Medium,-1,,manual,2026-06-12
+50,urgency,3 - Low,-1,,manual,2026-06-12
+50,urgency,1 - High,-1,,manual,2026-06-12
+50,urgency,2 - Medium,-1,,manual,2026-06-12
+50,priority,4 - Low,-1,,manual,2026-06-12
+50,priority,3 - Medium,-1,,manual,2026-06-12
+50,priority,1 - P1/P2 Service Down,-1,,manual,2026-06-12
+50,priority,2 - High,-1,,manual,2026-06-12
+50,channel,Self Service,-1,,manual,2026-06-12
+50,channel,Phone,-1,,manual,2026-06-12
+50,channel,Chatbot,-1,,manual,2026-06-12
+50,channel,Chat,-1,,manual,2026-06-12
+50,channel,Email,-1,,manual,2026-06-12
+50,channel,MS Teams,-1,,manual,2026-06-12
+50,channel,Systems Management,-1,,manual,2026-06-12
+50,channel,Direct Input,-1,,manual,2026-06-12
+50,channel,Other,-1,,manual,2026-06-12
+50,gid,HELPDESK,-1,,manual,2026-06-12
+50,gid,ITIS-CDMS,-1,,manual,2026-06-12
+50,gid,ITSM-DEMO,-1,,manual,2026-06-12
+50,gid,ITSM,-1,,manual,2026-06-12
+50,gid,RISK-ASR,-1,,manual,2026-06-12
+50,gid,SSCP,-1,,manual,2026-06-12
+50,gid,MyIT,-1,,manual,2026-06-12
+50,gid,DGP,-1,,manual,2026-06-12
+50,gid,ITIS-DC,-1,,manual,2026-06-12
+50,gid,ITIS-DDOS,-1,,manual,2026-06-12
+50,gid,ISS-Elvis Chan,-1,,manual,2026-06-12
+50,gid,TEST-RENAMED,-1,,manual,2026-06-12
+50,gid,C&IS-SEP,-1,,manual,2026-06-12
+50,gid,FIN,-1,,manual,2026-06-12
+50,gid,ITIS-CAD,-1,,manual,2026-06-12
+50,gid,ITIS-DCF,-1,,manual,2026-06-12
+50,gid,ITIS-MyIT-ADMIN,-1,,manual,2026-06-12
+50,gid,ITIS-WINDOWS,-1,,manual,2026-06-12
+50,gid,ENG-TRS,-1,,manual,2026-06-12
+50,gid,PMK,-1,,manual,2026-06-12
+50,gid,ENG,-1,,manual,2026-06-12
+50,gid,FIN-FMS,-1,,manual,2026-06-12
+50,gid,AFCAZ,-1,,manual,2026-06-12
+50,gid,C&IS-IR,-1,,manual,2026-06-12
+50,gid,C&IS-FW,-1,,manual,2026-06-12
+50,gid,NET-WIFI,-1,,manual,2026-06-12
+50,gid,CORP,-1,,manual,2026-06-12
+50,gid,CORP-EWF,-1,,manual,2026-06-12
+50,gid,ITIS-DeskTop,-1,,manual,2026-06-12
+50,gid,PROP,-1,,manual,2026-06-12
+50,gid,ON-SITE,-1,,manual,2026-06-12
+50,gid,DUMMY,-1,,manual,2026-06-12
+50,gid,3VIP Support,-1,,manual,2026-06-12
+50,gid,OPER-OIS,-1,,manual,2026-06-12
+50,gid,CWS,-1,,manual,2026-06-12
+50,gid,PROC,-1,,manual,2026-06-12
+50,gid,OA,-1,,manual,2026-06-12
+50,gid,OPER-ETMS,-1,,manual,2026-06-12
+50,gid,PROJ-OPEM,-1,,manual,2026-06-12
+50,gid,RPA-Robotic Process Automation,-1,,manual,2026-06-12
+50,gid,ITIS-PAL,-1,,manual,2026-06-12
+50,gid,C&IS-UAR,-1,,manual,2026-06-12
+50,gid,PROJ-EPMS,-1,,manual,2026-06-12
+50,gid,FIN-COT,-1,,manual,2026-06-12
+50,gid,NET-CDN,-1,,manual,2026-06-12
+50,gid,FIN-SRC,-1,,manual,2026-06-12
+50,gid,SUPPLE-EBS,-1,,manual,2026-06-12
+50,gid,MKT,-1,,manual,2026-06-12
+50,gid,ENG-RAILASSURE,-1,,manual,2026-06-12
+50,gid,C&IS-APT,-1,,manual,2026-06-12
+50,gid,FARE-PCIS,-1,,manual,2026-06-12
+50,gid,CMAP,-1,,manual,2026-06-12
+50,gid,ITIS-BRS,-1,,manual,2026-06-12
+50,gid,OPERATOR,-1,,manual,2026-06-12
+50,gid,MKT-MTRMB,-1,,manual,2026-06-12
+50,gid,ITIS-RINCON,-1,,manual,2026-06-12
+50,gid,PROP-PMS,-1,,manual,2026-06-12
+50,gid,MKT-HSW,-1,,manual,2026-06-12
+50,gid,PROJ-SIMS,-1,,manual,2026-06-12
+50,gid,PRJ-DMS,-1,,manual,2026-06-12
+50,gid,ITS-ACB,-1,,manual,2026-06-12
+50,gid,C&IS-DLP,-1,,manual,2026-06-12
+50,gid,IT-CSER-OA,-1,,manual,2026-06-12
+50,gid,ITIS-DS,-1,,manual,2026-06-12
+50,gid,ENG-LARP,-1,,manual,2026-06-12
+50,gid,ITIS-EIP,-1,,manual,2026-06-12
+50,gid,ITIS-Teams,-1,,manual,2026-06-12
+50,gid,OPER-ODMS,-1,,manual,2026-06-12
+50,gid,ITIS-HPUX,-1,,manual,2026-06-12
+50,gid,ENG-SMI,-1,,manual,2026-06-12
+50,gid,HRM-CQA,-1,,manual,2026-06-12
+50,gid,STPSUP,-1,,manual,2026-06-12
+50,gid,HRM-HRMS,-1,,manual,2026-06-12
+50,gid,PROC-CAS,-1,,manual,2026-06-12
+50,gid,PROJ-MTS,-1,,manual,2026-06-12
+50,gid,ISS-Eddie Sio,-1,,manual,2026-06-12
+50,gid,FARE-AFCTRM,-1,,manual,2026-06-12
+50,gid,PROP-PPRS,-1,,manual,2026-06-12
+50,gid,ITIS-UCC,-1,,manual,2026-06-12
+50,gid,ITIS-VDI,-1,,manual,2026-06-12
+50,gid,AMC,-1,,manual,2026-06-12
+50,gid,KM,-1,,manual,2026-06-12
+50,gid,FIN-ACS,-1,,manual,2026-06-12
+50,gid,HRM,-1,,manual,2026-06-12
+50,gid,ENG-MCM,-1,,manual,2026-06-12
+50,gid,FIN-FCS,-1,,manual,2026-06-12
+50,gid,ITIS-EMAIL,-1,,manual,2026-06-12
+50,gid,ITIS-RFAX,-1,,manual,2026-06-12
+50,gid,IEMS,-1,,manual,2026-06-12
+50,gid,ISS-Alan-See,-1,,manual,2026-06-12
+50,gid,FIN-SIG,-1,,manual,2026-06-12
+50,gid,Maint-Team-Approver,-1,,manual,2026-06-12
+50,gid,MKT-MWS,-1,,manual,2026-06-12
+50,gid,OTH-DPIDS,-1,,manual,2026-06-12
+50,gid,NET-INTERNET,-1,,manual,2026-06-12
+50,gid,PROP-ECRM,-1,,manual,2026-06-12
+50,gid,IT IS-SmartPrint,-1,,manual,2026-06-12
+50,gid,ITIS-RTS,-1,,manual,2026-06-12
+50,gid,VMP-Celia Chiang,-1,,manual,2026-06-12
+50,gid,ODC1-Leo Xie,-1,,manual,2026-06-12
+50,gid,EXOM-HD,-1,,manual,2026-06-12
+50,gid,OPER-ASH,-1,,manual,2026-06-12
+50,gid,ISIE,-1,,manual,2026-06-12
+50,gid,OPER,-1,,manual,2026-06-12
+50,gid,ITIS-CFS,-1,,manual,2026-06-12
+50,gid,OPER-ETMSSafeTrack,-1,,manual,2026-06-12
+50,gid,OPER-ESPEDIA,-1,,manual,2026-06-12
+50,gid,OPER-OPD,-1,,manual,2026-06-12
+50,gid,C&IS-SIEM,-1,,manual,2026-06-12
+50,gid,EWF,-1,,manual,2026-06-12
+50,gid,ISS-Ryan-Lau,-1,,manual,2026-06-12
+50,gid,MCP-INF,-1,,manual,2026-06-12
+50,gid,MKT-BSRS,-1,,manual,2026-06-12
+50,gid,EFW,-1,,manual,2026-06-12
+50,gid,ITIS-VCS,-1,,manual,2026-06-12
+50,gid,C&IS-IRM,-1,,manual,2026-06-12
+50,subcategory,User Self Service,-1,,manual,2026-06-12
+50,subcategory,Enquiry,-1,,manual,2026-06-12
+50,subcategory,Wifi,-1,,manual,2026-06-12
+50,subcategory,N/A,-1,,manual,2026-06-12
+50,subcategory,Control-M Job,-1,,manual,2026-06-12
+50,subcategory,3RD PARTY APPS,-1,,manual,2026-06-12
+50,subcategory,OTHERS,-1,,manual,2026-06-12
+50,subcategory,Access / Connectivity,-1,,manual,2026-06-12
+50,subcategory,Login,-1,,manual,2026-06-12
+50,subcategory,Remedy,-1,,manual,2026-06-12
+50,subcategory,CPU Utilization,-1,,manual,2026-06-12
+50,subcategory,Error,-1,,manual,2026-06-12
+50,subcategory,Firewall,-1,,manual,2026-06-12
+50,subcategory,Client_VDI,-1,,manual,2026-06-12
+50,subcategory,Edge,-1,,manual,2026-06-12
+50,subcategory,MWS,-1,,manual,2026-06-12
+50,subcategory,Copier,-1,,manual,2026-06-12
+50,subcategory,OUTLOOK,-1,,manual,2026-06-12
+50,subcategory,PC Setting,-1,,manual,2026-06-12
+50,subcategory,PC,-1,,manual,2026-06-12
+50,subcategory,Error or Warning Message,-1,,manual,2026-06-12
+50,subcategory,MS_Teams,-1,,manual,2026-06-12
+50,subcategory,Monitor,-1,,manual,2026-06-12
+50,subcategory,OIS,-1,,manual,2026-06-12
+50,subcategory,Laptop,-1,,manual,2026-06-12
+50,subcategory,A-PDF_Mailer,-1,,manual,2026-06-12
+50,subcategory,OneDrive,-1,,manual,2026-06-12
+50,subcategory,Printer,-1,,manual,2026-06-12
+50,subcategory,Request,-1,,manual,2026-06-12
+50,subcategory,PRINTING / PRINT QUEUE,-1,,manual,2026-06-12
+50,subcategory,Bentley Microstation CE,-1,,manual,2026-06-12
+50,subcategory,Print_Queue,-1,,manual,2026-06-12
+50,subcategory,Win_OS,-1,,manual,2026-06-12
+50,subcategory,Client_RTS,-1,,manual,2026-06-12
+50,subcategory,Bentely_View_CE,-1,,manual,2026-06-12
+50,subcategory,RPA,-1,,manual,2026-06-12
+50,subcategory,EXCEL,-1,,manual,2026-06-12
+50,subcategory,Process or Service Down,-1,,manual,2026-06-12
+50,subcategory,Plotter,-1,,manual,2026-06-12
+50,subcategory,CQAS,-1,,manual,2026-06-12
+50,subcategory,STP,-1,,manual,2026-06-12
+50,subcategory,HRMS,-1,,manual,2026-06-12
+50,subcategory,EPMS,-1,,manual,2026-06-12
+50,subcategory,SharePoint_Online,-1,,manual,2026-06-12
+50,subcategory,SharePoint_Local,-1,,manual,2026-06-12
+50,subcategory,Performance,-1,,manual,2026-06-12
+50,subcategory,OWA,-1,,manual,2026-06-12
+50,subcategory,O365,-1,,manual,2026-06-12
+50,subcategory,Acrobat_Reader,-1,,manual,2026-06-12
+50,subcategory,MFA,-1,,manual,2026-06-12
+50,subcategory,Disk Utilization,-1,,manual,2026-06-12
+50,subcategory,Common_Drive,-1,,manual,2026-06-12
+50,subcategory,Intune,-1,,manual,2026-06-12
+50,subcategory,Local_PC_Software,-1,,manual,2026-06-12
+50,subcategory,MS_PowerBI,-1,,manual,2026-06-12
+50,subcategory,Adobe_e-Sign,-1,,manual,2026-06-12
+50,subcategory,Performance Network Utilization,-1,,manual,2026-06-12
+50,subcategory,Within DLP,-1,,manual,2026-06-12
+50,subcategory,Ping Fail,-1,,manual,2026-06-12
+50,subcategory,Batch Job,-1,,manual,2026-06-12
+50,subcategory,Memory Utilization,-1,,manual,2026-06-12
+50,subcategory,IPS,-1,,manual,2026-06-12
+50,uid,Remedy Application Service,-1,,manual,2026-06-12
+50,uid,activationuser,-1,,manual,2026-06-12
+50,uid,AR_ESCALATOR,-1,,manual,2026-06-12
+50,uid,n/a,-1,,manual,2026-06-12
+50,uid,JAVIERS,-1,,manual,2026-06-12
+50,uid,REMADMIN,-1,,manual,2026-06-12
+50,uid,MAGRACIA,-1,,manual,2026-06-12
+50,uid,1/F SWTSO,-1,,manual,2026-06-12
+50,uid,GARICAK,-1,,manual,2026-06-12
+50,uid,HOHYC,-1,,manual,2026-06-12
+50,uid,NHDTACC,-1,,manual,2026-06-12
+50,uid,SECDEMO,-1,,manual,2026-06-12
+50,uid,SECDEMO1,-1,,manual,2026-06-12
+50,uid,hannah_admin,-1,,manual,2026-06-12
+50,uid,ANDYCH,-1,,manual,2026-06-12
+50,uid,appadmin,-1,,manual,2026-06-12
+50,uid,TERRYHCT,-1,,manual,2026-06-12
+50,uid,NOAHLAU,-1,,manual,2026-06-12
+50,uid,LEEMWM,-1,,manual,2026-06-12
+50,uid,SAMMYCHS,-1,,manual,2026-06-12
+50,uid,ALEXCCK,-1,,manual,2026-06-12
+50,uid,KENTCHEE,-1,,manual,2026-06-12
+50,uid,LRXCHONG,-1,,manual,2026-06-12
+50,uid,STEPHENIE,-1,,manual,2026-06-12
+50,uid,KINMNG,-1,,manual,2026-06-12
+50,uid,JWSLAI,-1,,manual,2026-06-12
+50,uid,RICHARDM,-1,,manual,2026-06-12
+50,uid,YYWANG,-1,,manual,2026-06-12
+50,uid,MCFYIU,-1,,manual,2026-06-12
+50,uid,OPERATOR,-1,,manual,2026-06-12
+50,uid,RPYLAI,-1,,manual,2026-06-12
+50,uid,CKLKEN,-1,,manual,2026-06-12
+50,uid,AKWSO,-1,,manual,2026-06-12
+50,uid,Z104318,-1,,manual,2026-06-12
+50,uid,WONGSUN,-1,,manual,2026-06-12
+50,uid,WINFZHU,-1,,manual,2026-06-12
+50,uid,DALEHO,-1,,manual,2026-06-12
+50,uid,PKMCHEUNG,-1,,manual,2026-06-12
+50,uid,WACKOC,-1,,manual,2026-06-12
+50,uid,TSEERIYL,-1,,manual,2026-06-12
+50,uid,VINLEUNG,-1,,manual,2026-06-12
+50,uid,MCHCHUNG,-1,,manual,2026-06-12
+50,uid,N072716,-1,,manual,2026-06-12
+50,uid,EDDIEHO,-1,,manual,2026-06-12
+50,uid,JASONLCC,-1,,manual,2026-06-12
+50,uid,CATGOO,-1,,manual,2026-06-12
+50,uid,TONYSCH,-1,,manual,2026-06-12
+50,uid,FHNTANG,-1,,manual,2026-06-12
+50,uid,VWHSZETO,-1,,manual,2026-06-12
+50,uid,OPERATOR1,-1,,manual,2026-06-12
+50,uid,KCPCHAN,-1,,manual,2026-06-12
+50,uid,FCYNG,-1,,manual,2026-06-12
+50,uid,RFHPOON,-1,,manual,2026-06-12
+50,uid,TOMTAM,-1,,manual,2026-06-12
+50,uid,CONRAPJ,-1,,manual,2026-06-12
+50,uid,VITUSL,-1,,manual,2026-06-12
+50,uid,SAMCTS,-1,,manual,2026-06-12
+50,uid,SCHU,-1,,manual,2026-06-12
+50,uid,CTOBY,-1,,manual,2026-06-12
+50,uid,WMCHUNG,-1,,manual,2026-06-12
+50,uid,SNCCHONG,-1,,manual,2026-06-12
+50,uid,TYLAI,-1,,manual,2026-06-12
+50,uid,MTROPR,-1,,manual,2026-06-12
+50,uid,LEOFONG,-1,,manual,2026-06-12
+50,uid,LAMCKO,-1,,manual,2026-06-12
+50,uid,YKTANG,-1,,manual,2026-06-12
+50,uid,PMFYEUNG,-1,,manual,2026-06-12
+50,uid,EYLTSANG,-1,,manual,2026-06-12
+50,uid,AOKLEUNG,-1,,manual,2026-06-12
+50,uid,WANDREWC,-1,,manual,2026-06-12
+50,uid,LAMLYY,-1,,manual,2026-06-12
+50,uid,TWSTSANG,-1,,manual,2026-06-12
+50,uid,DAVIDCWK,-1,,manual,2026-06-12
+50,uid,AA50038,-1,,manual,2026-06-12
+50,uid,DKMLAM,-1,,manual,2026-06-12
+50,uid,CAESARC,-1,,manual,2026-06-12
+50,uid,FWYEUNG2,-1,,manual,2026-06-12
+50,uid,KACHILAI,-1,,manual,2026-06-12
+50,uid,IT-HELPDESK,-1,,manual,2026-06-12
+50,uid,RAYLAM,-1,,manual,2026-06-12
+50,uid,N052210,-1,,manual,2026-06-12
+50,uid,KKFTSUI,-1,,manual,2026-06-12
+50,uid,Yeung Wesley To Yiu,-1,,manual,2026-06-12
+50,uid,LAI Vitus Long Chau,-1,,manual,2026-06-12
+50,uid,Goo Cat Pui Sze,-1,,manual,2026-06-12
+50,uid,Ng Francis Chi Yeung,-1,,manual,2026-06-12
+50,uid,Tam Tommy Kin Keung,-1,,manual,2026-06-12
+50,uid,Poon Raymond Fai Hung,-1,,manual,2026-06-12
+50,uid,MAGRACIA Ian Paul,-1,,manual,2026-06-12
+50,uid,Leung Benny ChiPan,-1,,manual,2026-06-12
+50,uid,REMADMIN REMADMIN,-1,,manual,2026-06-12
+50,uid,Cheng Emil Yuet Hing,-1,,manual,2026-06-12
+50,uid,Fei Bennie Kar Leung,-1,,manual,2026-06-12
+50,uid,Computer Operator,-1,,manual,2026-06-12
+50,uid,LAM Paul Ho Tin,-1,,manual,2026-06-12
+50,uid,CHAN Elvis,-1,,manual,2026-06-12
+50,uid,Ching SH Siu Hung,-1,,manual,2026-06-12
+50,uid,LAW Wilson Wai Sun,-1,,manual,2026-06-12
+50,uid,JAVIER Sierwin S,-1,,manual,2026-06-12
+50,uid,Sze William Luk Yau,-1,,manual,2026-06-12
+50,uid,Chan Violet,-1,,manual,2026-06-12
+50,uid,CHIU Willis Sin Wai,-1,,manual,2026-06-12
+50,uid,Pang CH Chi Ho,-1,,manual,2026-06-12
+50,uid,CHAN Justin Ka Tsun,-1,,manual,2026-06-12
+50,uid,WONG Sunny CH,-1,,manual,2026-06-12
+50,uid,GARICA King Irving Lindley,-1,,manual,2026-06-12
+50,uid,YEUNG Peter Ming Fai,-1,,manual,2026-06-12
+50,uid,HO YC Yiu Chung,-1,,manual,2026-06-12
+50,uid,TONG Sam,-1,,manual,2026-06-12
+50,uid,Ho Marco Woon Hang,-1,,manual,2026-06-12
+50,uid,Dimension Data Support,-1,,manual,2026-06-12
+50,uid,LEE Cara Ying Wa,-1,,manual,2026-06-12
+50,uid,Cheung Samson Tak Sum,-1,,manual,2026-06-12
+50,uid,Ho Dale Chi Man,-1,,manual,2026-06-12
+50,uid,HUI Terry Chi To,-1,,manual,2026-06-12
+50,uid,Chan Andy Wai Leung,-1,,manual,2026-06-12
+50,uid,Ho YC Ying Chung,-1,,manual,2026-06-12
+50,uid,CHONG Bing Chi Yung,-1,,manual,2026-06-12
+50,uid,LAU Noah Ho Lung,-1,,manual,2026-06-12
+50,uid,CHOI Sammy Hung Sang,-1,,manual,2026-06-12
+50,uid,CHAN Edward Man Chuen,-1,,manual,2026-06-12
+50,uid,LUI Henry Wai Hin,-1,,manual,2026-06-12
+50,uid,Lee Man Wai Man,-1,,manual,2026-06-12
+50,uid,Suen Bon,-1,,manual,2026-06-12
+50,uid,Chan Eric Hok Chi,-1,,manual,2026-06-12
+50,uid,LO Roy King Him,-1,,manual,2026-06-12
+50,uid,CHIAM Alex Chun Kit,-1,,manual,2026-06-12
+50,uid,CHEE Kent Fei,-1,,manual,2026-06-12
+50,uid,Ng KM Kin Man,-1,,manual,2026-06-12
+50,uid,HO Jason Chun Kong,-1,,manual,2026-06-12
+50,uid,Wu Golden Kam Keung,-1,,manual,2026-06-12
+50,uid,Cao Lucas,-1,,manual,2026-06-12
+50,uid,Iqbal Asif,-1,,manual,2026-06-12
+50,uid,BOUDVILLE Stephenie Joanne,-1,,manual,2026-06-12
+50,uid,Li Junyan,-1,,manual,2026-06-12
+50,uid,Mak Raymond Yun Chiu,-1,,manual,2026-06-12
+50,uid,WANG Yao,-1,,manual,2026-06-12
+50,uid,Chan Ricky,-1,,manual,2026-06-12
+50,uid,Lam Byron Hing Tuen,-1,,manual,2026-06-12
+50,uid,Ma Richard Yee Shing,-1,,manual,2026-06-12
+50,uid,Wang Michelle Lin,-1,,manual,2026-06-12
+50,uid,Au Yeung Kaitlyn,-1,,manual,2026-06-12
+50,uid,Lai Jonathan Wing Sun,-1,,manual,2026-06-12
+50,uid,Yiu Matthew Cheuk Fai,-1,,manual,2026-06-12
+50,uid,IP Eugene Chi Kin,-1,,manual,2026-06-12
+50,uid,Chan Wilson Kim Yu,-1,,manual,2026-06-12
+50,uid,Zhang Tianhe,-1,,manual,2026-06-12
+50,uid,KWOK Anthony Chin Ho,-1,,manual,2026-06-12
+50,uid,Cheung Antony Hoi Por,-1,,manual,2026-06-12
+50,uid,SO Adrian Kwan Wai,-1,,manual,2026-06-12
+50,uid,Cheung Ken Kwok Leung,-1,,manual,2026-06-12
+50,uid,Lam Amy Wan,-1,,manual,2026-06-12
+50,uid,Lai Roy Pak Yu,-1,,manual,2026-06-12
+50,uid,Leung Tony Lap Hong,-1,,manual,2026-06-12
+50,uid,Mok MH Ming Him,-1,,manual,2026-06-12
+50,uid,YEUNG Patrick Wai Kin,-1,,manual,2026-06-12
+50,uid,Poon WK Wai Keung,-1,,manual,2026-06-12
+50,uid,Computer  Operator-,-1,,manual,2026-06-12
+50,uid,MAK Sam Chi Shing,-1,,manual,2026-06-12
+50,uid,Li Chong Lizardo Augusto,-1,,manual,2026-06-12
+50,uid,SHI Yingjun,-1,,manual,2026-06-12
+50,uid,Zhu Winfred,-1,,manual,2026-06-12
+50,uid,CHAN Sandy Wing San,-1,,manual,2026-06-12
+50,uid,Tuin Roy Ho Ching,-1,,manual,2026-06-12
+50,uid,NG Lucifer Tsz Man,-1,,manual,2026-06-12
+50,uid,Computer Operator1,-1,,manual,2026-06-12
+50,uid,Lau SH Sai Hung,-1,,manual,2026-06-12
+50,uid,Wong Francis Cheuk Yan,-1,,manual,2026-06-12
+50,uid,Lee Pamela,-1,,manual,2026-06-12
+50,uid,Lai Key Ka Kit,-1,,manual,2026-06-12
+50,uid,LIU Qi,-1,,manual,2026-06-12
+50,uid,Yu Kelvin Tak Kong,-1,,manual,2026-06-12
+50,uid,CHONG Louis Rui Xin,-1,,manual,2026-06-12
+50,uid,Kwong Steve,-1,,manual,2026-06-12
+50,uid,CHOI Amos Chung Ho,-1,,manual,2026-06-12
+50,uid,CHIU Joseph,-1,,manual,2026-06-12
+50,uid,Kwok Raymond,-1,,manual,2026-06-12
+50,uid,Yuan Wyman Weiwen,-1,,manual,2026-06-12
+50,uid,STPOPR STPOPR,-1,,manual,2026-06-12
+50,uid,LAM Berry Chun Hang,-1,,manual,2026-06-12
+50,uid,Cheung Wacko Siu Ki,-1,,manual,2026-06-12
+50,uid,TSE Erik Yiu Lun,-1,,manual,2026-06-12
+50,uid,Zhou Shengqing,-1,,manual,2026-06-12
+50,uid,Wong Kestal,-1,,manual,2026-06-12
+50,uid,Lam Wallace Sin Ho,-1,,manual,2026-06-12
+50,uid,KWOK Joachim,-1,,manual,2026-06-12
+50,uid,CHAN Roy Hor Chung,-1,,manual,2026-06-12
+50,uid,HUI Samuel,-1,,manual,2026-06-12
+50,uid,Ho Eddie Ka Fai,-1,,manual,2026-06-12
+50,uid,TSOI Wandell King Ho,-1,,manual,2026-06-12
+50,uid,Wu Joe Chung Ming,-1,,manual,2026-06-12
+50,uid,Leung Vincent Chun Hei,-1,,manual,2026-06-12
+50,uid,CARDAPP CARDAPP,-1,,manual,2026-06-12
+50,uid,CHUNG Matthew Cheuk Heng,-1,,manual,2026-06-12
+50,uid,Ren Alan Yilun,-1,,manual,2026-06-12
+50,uid,Tang David Yam Keung,-1,,manual,2026-06-12
+50,uid,Tam Toby Kam Chuen,-1,,manual,2026-06-12
+50,uid,TSANG Tony Chung Leong,-1,,manual,2026-06-12
+50,uid,Ng Ray Wing Wai,-1,,manual,2026-06-12
+50,uid,Kan Cliff,-1,,manual,2026-06-12
+50,uid,Li Kening,-1,,manual,2026-06-12
+50,uid,LEE Thomas Man Siu,-1,,manual,2026-06-12
+50,uid,LAU  Kenneth Tsz Long,-1,,manual,2026-06-12
+50,uid,Chau Terence,-1,,manual,2026-06-12
+50,uid,Lau Daniel Shu Wing,-1,,manual,2026-06-12
+50,uid,LI Jason Chun Cheung,-1,,manual,2026-06-12
+50,uid,Yang YanYu,-1,,manual,2026-06-12
+50,uid,Chen Mars Ning,-1,,manual,2026-06-12
+50,uid,DENG Jiahuan,-1,,manual,2026-06-12
+50,uid,Chu Stanley Tsz Chun,-1,,manual,2026-06-12
+50,uid,CHEN Rainy,-1,,manual,2026-06-12
+50,uid,AU Goldman,-1,,manual,2026-06-12
+50,uid,SUNG Sam Kai Yeung,-1,,manual,2026-06-12
+50,uid,Chan Kenny Ching Pong,-1,,manual,2026-06-12
+50,uid,Lau Ivan Kin Fai,-1,,manual,2026-06-12
+50,uid,Chiu Desmond Wai Ming,-1,,manual,2026-06-12
+50,uid,Yuan M Meng,-1,,manual,2026-06-12
+50,uid,Mak Mac Kin Hung,-1,,manual,2026-06-12
+50,uid,LEUNG Will,-1,,manual,2026-06-12
+50,uid,CHAN Joseph,-1,,manual,2026-06-12
+50,uid,Chow David Wai Kwong,-1,,manual,2026-06-12
+50,uid,Tsang Elaine Yuen Ling,-1,,manual,2026-06-12
+50,uid,Chan Wandrew Ho,-1,,manual,2026-06-12
+50,uid,Lam Daniel,-1,,manual,2026-06-12
+50,uid,Nip Zoe Tsz In,-1,,manual,2026-06-12
+50,uid,WANG Jason,-1,,manual,2026-06-12
+50,uid,WONG SH Shui Hung,-1,,manual,2026-06-12
+50,uid,So Walter,-1,,manual,2026-06-12
+50,uid,Wong Yorky,-1,,manual,2026-06-12
+50,uid,Cheung Chun Ting,-1,,manual,2026-06-12
+50,uid,LEUNG Samson Charn Hung,-1,,manual,2026-06-12
+50,uid,Chen Hailong,-1,,manual,2026-06-12
+50,uid,Tong David Chun Hung,-1,,manual,2026-06-12
+50,uid,Chan Caesar Lap Pong,-1,,manual,2026-06-12
+50,uid,Leung Patrick Ka Lok,-1,,manual,2026-06-12
+50,uid,Tsang Thinker Wai See,-1,,manual,2026-06-12
+50,uid,FONG Ringo Chi Keung,-1,,manual,2026-06-12
+50,uid,LAW Lawrence Yan Lok,-1,,manual,2026-06-12
+50,uid,Tsang Terence Ka Kei,-1,,manual,2026-06-12
+50,uid,Cheng HF Ho Fung,-1,,manual,2026-06-12
+50,uid,DENG Max,-1,,manual,2026-06-12
+50,uid,Yang Water Yuqing,-1,,manual,2026-06-12
+50,uid,Li Lisha,-1,,manual,2026-06-12
+50,uid,Yeung FW Fuk Wing,-1,,manual,2026-06-12
+50,uid,Ma Marco Shu Hung,-1,,manual,2026-06-12
+50,uid,Li Cassie Yun,-1,,manual,2026-06-12
+50,uid,TAO Mark,-1,,manual,2026-06-12
+50,uid,Chen Guoping,-1,,manual,2026-06-12
+50,uid,Liu FW Fu Wen,-1,,manual,2026-06-12
+50,uid,CHEN Charles,-1,,manual,2026-06-12
+50,uid,LAI TY Tak Yu,-1,,manual,2026-06-12
+50,uid,Lai Martin Ka Chi,-1,,manual,2026-06-12
+50,uid,Ip David Chi Kwok,-1,,manual,2026-06-12
