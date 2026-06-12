@@ -1,0 +1,22 @@
+form,enabled,sink,orginial,def
+CHG,1,tbl,,tmp_stg.sg_itsm
+CHG,1,filter,,dft.CHG
+CHG,1,id,Infrastructure Change ID,seq
+CHG,1,number,Infrastructure Change ID,
+CHG,1,requested_by_id,ASCHG,cast.uid
+CHG,1,business_service_id,ServiceCI,cast.business_service_id
+CHG,1,short_description,Description,
+CHG,1,description,Detailed Description,
+CHG,1,type,Change Timing,val.class
+CHG,1,risk,Risk Level,cast.risk
+CHG,1,state,z1D Status,val.state
+CHG,1,category,Change Nature Tier 1,cast.category  
+CHG,1,assigned_to_user_id,Assignee,cast.uid
+CHG,1,start_date,Scheduled Start Date,
+CHG,1,end_date,Scheduled End Date,
+CHG,1,work_start,Actual Start Date,
+CHG,1,work_end,Actual End Date,
+CHG,1,opened_by_id,Submitter,cast.uid
+CHG,1,opened_at,Submit Date,
+CHG,1,updated_by,Last Modified By,
+CHG,1,updated_time,Last Modified Date,

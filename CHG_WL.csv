@@ -1,0 +1,14 @@
+form,enabled,sink,orginial,def
+CHG_WL,1,tbl,,tmp_stg.sg_itsm
+CHG_WL,1,filter,,dft.CHG_WL
+CHG_WL,1,transfer_reason,Work Log Type,
+CHG_WL,1,id,Infrastructure Change ID,seq
+CHG_WL,1,number,Infrastructure Change ID,
+CHG_WL,1,description,Description,
+CHG_WL,1,comments,Detailed Description,
+CHG_WL,1,channel,Communication Source,cast.channel
+CHG_WL,1,state,Status,val.state
+CHG_WL,1,opened_by_id,Submitter,cast.uid
+CHG_WL,1,opened_at,Submit Date,
+CHG_WL,1,updated_by,Submitter,
+CHG_WL,1,updated_time,Submit Date,

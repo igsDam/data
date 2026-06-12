@@ -1,0 +1,43 @@
+form,enabled,sink,orginial,def
+AST_BS,1,tbl,,tmp_stg.sg_cmdb
+AST_BS,1,filter,,dft.AST_BS
+AST_BS,1,None,"AST_BS Not found, change to *'BMC.CORE:BMC_BusinessService'",
+AST_BS,1,asset_name,CI Name,
+AST_BS,1,description,CI Description,
+AST_BS,1,ci_id,CI ID,cast.ci_id
+AST_BS,1,supported,Supported,
+AST_BS,1,status,Status,
+AST_BS,1,asset_description,Service ID,
+AST_BS,1,company,Company,
+AST_BS,1,primary_capability,System Role,
+AST_BS,1,capability_list,User Affected,
+AST_BS,1,status_reason,Sub Type,
+AST_BS,1,impact,Assigned Group,val.impact
+AST_BS,1,urgency,First Line Suport,val.urgency
+AST_BS,1,priority,BIA,val.priority
+AST_BS,1,users_affect,Public Facing Application,
+AST_BS,1,prod_category1,Prod Category Tier 1,
+AST_BS,1,prod_category2,Prod Category Tier 2,
+AST_BS,1,prod_category3,Prod Category Tier 3,
+AST_BS,1,prod_name,Product Name,
+AST_BS,1,model,Model/Version,
+AST_BS,1,manufacturer,Manufacturer,
+AST_BS,1,supplier_name,Supplier Name,
+AST_BS,1,region,Region,
+AST_BS,1,site_group,Site Group,
+AST_BS,1,site,Site,
+AST_BS,1,floor,Floor,
+AST_BS,1,room,Room,
+AST_BS,1,available_date,Available Date,
+AST_BS,1,inactive_date,Return Date,
+AST_BS,1,disposal_date,Disposal Date,
+AST_BS,1,last_scan_date,Last Scan Date,
+AST_BS,1,owner_name,Owner Name,
+AST_BS,1,owner_contact,Owner Contact,
+AST_BS,1,env_spec,Service Level,
+AST_BS,1,conf_opts,Service Hours,
+AST_BS,1,system_type,Call Window,
+AST_BS,1,reset_capability,Preferred Maint Window,
+AST_BS,1,expansion,Support Remarks,
+AST_BS,1,expansion_interface,Comments,
+AST_BS,1,impact_computation,Application Area,
