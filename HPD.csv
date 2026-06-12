@@ -1,6 +1,6 @@
 form,enabled,sink,original,def
 HPD,1,tbl,,tmp_stg.sg_itsm
-HPD,1,filter,,frm.HPD
+HPD,1,filter,,dft.HPD
 HPD,1,id,Incident Number,seq
 HPD,1,number,Incident Number,
 HPD,1,call_id_sys_user_id,Customer,
@@ -19,7 +19,7 @@ HPD,1,third_party_key,Vendor Ticket Number,
 HPD,1,state,Status,map.state
 HPD,1,resolution_notes,Resolution,
 HPD,1,category,Categorization Tier 1,cast.category
-HPD,1,sub_category,Categorization Tier 2,cast.category
+HPD,1,sub_category,Categorization Tier 2,cast.subcategory
 HPD,1,opened_at,Reported Date,
 HPD,1,resolved_at,Required Resolution DateTime,
 HPD,1,opened_sys_user_id,Submitter,cast.uid
