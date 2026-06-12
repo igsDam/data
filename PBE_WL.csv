@@ -1,0 +1,14 @@
+form,enabled,sink,orginial,def
+PBE_WL,1,tbl,,tmp_stg.sg_itsm
+PBE_WL,1,filter,,dft.PBE_WL
+PBE_WL,1,transfer_reason,Work Log Type,
+PBE_WL,1,id,Known Error ID,seq
+PBE_WL,1,number,Known Error ID,
+PBE_WL,1,description,Description,
+PBE_WL,1,comments,Detailed Description,
+PBE_WL,1,channel,Communication Source,cast.channel
+PBE_WL,1,state,Status,val.state
+PBE_WL,1,opened_by_id,Submitter,cast.uid
+PBE_WL,1,opened_at,Submit Date,
+PBE_WL,1,updated_by,Submitter,
+PBE_WL,1,updated_time,Submit Date,

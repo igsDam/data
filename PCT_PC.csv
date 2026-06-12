@@ -1,0 +1,11 @@
+form,enabled,sink,orginial,def
+PCT_PC,1,tbl,,tmp_stg.sg_cmdb_ci
+PCT_PC,1,filter,,frm.PCT_PC
+PCT_PC,1,id,Product ID,seq
+PCT_PC,1,ci_type,Asset Class,
+PCT_PC,1,ci_name,CategorizationSchemaKeyword,
+PCT_PC,1,hierarchy_path,Product Type,
+PCT_PC,1,updated_by,Tab Number,
+PCT_PC,1,updated_time,Serial Number,
+PCT_PC,1,created_by,Submitter,
+PCT_PC,1,created_time,Submit Date,

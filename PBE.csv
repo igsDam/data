@@ -1,0 +1,25 @@
+form,enabled,sink,orginial,def
+PBE,1,tbl,,tmp_stg.sg_itsm
+PBE,1,filter,,dft.PBE
+PBE,1,id,Known Error ID,seq
+PBE,1,number,Known Error ID,
+PBE,1,configuration_item_service,ServiceCI,cast.configuration_item_service
+PBE,1,short_description,Description,
+PBE,1,description,Detailed Description,
+PBE,1,configuration_item,PKE_CI,cast.configuration_item
+PBE,1,impact,Impact,val.impact
+PBE,1,urgency,Urgency,val.urgency
+PBE,1,priority,Priority,val.priority
+PBE,1,assignment_group_id,Assigned Group,cast.gid
+PBE,1,assigned_sys_user_id,Assignee,cast.uid
+PBE,1,third_party_type,Vendor Name,
+PBE,1,third_party_key,Vendor Ticket Number,
+PBE,1,state,Investigation Status,val.state
+PBE,1,workaround,Temporary Workaround,
+PBE,1,fix_notes,Implemented Solution,
+PBE,1,category,Categorization Tier 1,cast.category
+PBE,1,sub_category,Categorization Tier 2,cast.subcategory
+PBE,1,opened_sys_user_id,Submitter,cast.uid
+PBE,1,opened_at,Submit Date,
+PBE,1,updated_by,Last Modified By,
+PBE,1,updated_time,Last Modified Date,

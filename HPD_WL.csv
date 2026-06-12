@@ -1,0 +1,13 @@
+form,enabled,sink,orginial,def
+HPD_WL,1,tbl,,tmp_stg.sg_itsm
+HPD_WL,1,filter,,dft.HPD_WL
+HPD_WL,1,id,Incident Number,seq
+HPD_WL,1,number,Incident Number,
+HPD_WL,1,description,Description,
+HPD_WL,1,comments,Detailed Description,
+HPD_WL,1,channel,Communication Source,cast.channel
+HPD_WL,1,state,Status,val.state
+HPD_WL,1,opened_by_id,Submitter,cast.uid
+HPD_WL,1,opened_at,Submit Date,
+HPD_WL,1,updated_by,Submitter,
+HPD_WL,1,updated_time,Submit Date,

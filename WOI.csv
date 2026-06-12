@@ -1,0 +1,19 @@
+form,enabled,sink,orginial,def
+WOI,1,tbl,,tmp_stg.sg_itsm
+WOI,1,filter,,dft.WOI
+WOI,1,id,Work Order ID,seq
+WOI,1,number,Work Order ID,
+WOI,1,item_for_user_id,Customer,cast.uid
+WOI,1,item_open_by_user_id,z1D_Contact,cast.uid
+WOI,1,description,Detailed Description,
+WOI,1,short_description,Summary,
+WOI,1,assignment_group,z5Text Assignment Assigned Group,cast.gid
+WOI,1,assigned_to,z5Text Assignment Assigned Group,cast.uid
+WOI,1,state,Status,val.state
+WOI,1,configuration_item,Relationships to CI *,cast.configuration_item
+WOI,1,due_date,ServiceDeliveryDate,
+WOI,1,item_open_by_user_id,Submitter,cast.uid
+WOI,1,opened_by_id,Submitter,cast.uid
+WOI,1,opened_at,Submit Date,
+WOI,1,updated_by,Last Modified By,
+WOI,1,updated_time,Last Modified Date,
