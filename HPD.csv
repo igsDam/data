@@ -1,4 +1,4 @@
-form,enabled,sink,original,def
+form,enabled,dest,src,def
 HPD,1,tbl,,tmp_stg.sg_itsm
 HPD,1,filter,,dft.HPD
 HPD,1,id,Incident Number,seq

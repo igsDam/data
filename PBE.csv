@@ -1,4 +1,4 @@
-form,enabled,sink,orginial,def
+form,enabled,dest,src,def
 PBE,1,tbl,,tmp_stg.sg_itsm
 PBE,1,filter,,dft.PBE
 PBE,1,id,Known Error ID,seq

@@ -1,4 +1,4 @@
-form,enabled,sink,orginial,def
+form,enabled,dest,src,def
 PCT_PC,1,tbl,,tmp_stg.sg_cmdb_ci
 PCT_PC,1,filter,,frm.PCT_PC
 PCT_PC,1,id,Product ID,seq

@@ -1,4 +1,4 @@
-form,enabled,sink,orginial,def
+form,enabled,dest,src,def
 PBM,1,tbl,,tmp_stg.sg_itsm
 PBM,1,filter,,dft.PBM
 PBM,1,id,Problem Investigation ID,seq

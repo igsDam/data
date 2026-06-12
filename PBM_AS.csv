@@ -1,4 +1,4 @@
-form,enabled,sink,orginial,def
+form,enabled,dest,src,def
 PBM_AS,1,tbl,,tmp_stg.sg_itsm_assoc
 PBM_AS,1,filter,,dft.PBM_AS
 PBM_AS,1,updated_by,Submitter,

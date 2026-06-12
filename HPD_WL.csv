@@ -1,4 +1,4 @@
-form,enabled,sink,orginial,def
+form,enabled,dest,src,def
 HPD_WL,1,tbl,,tmp_stg.sg_itsm
 HPD_WL,1,filter,,dft.HPD_WL
 HPD_WL,1,id,Incident Number,seq

@@ -1,4 +1,4 @@
-form,enabled,sink,orginial,def
+form,enabled,dest,src,def
 CHG,1,tbl,,tmp_stg.sg_itsm
 CHG,1,filter,,dft.CHG
 CHG,1,id,Infrastructure Change ID,seq

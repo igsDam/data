@@ -1,4 +1,4 @@
-form,enabled,sink,orginial,def
+form,enabled,dest,src,def
 AST_BS,1,tbl,,tmp_stg.sg_cmdb
 AST_BS,1,filter,,dft.AST_BS
 AST_BS,1,None,"AST_BS Not found, change to *'BMC.CORE:BMC_BusinessService'",
