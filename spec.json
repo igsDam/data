@@ -1,0 +1,10 @@
+{
+"rpt":"rpt01",
+"fmt":"csv",
+"ttl":"CSV report",
+"ftn":"End of the report",
+"margin":"5",
+"sql":"select * FROM tmp_stg.sys_dict",
+"cols":[{"lbl": "id", "hdr": "ID"}, 
+        {"lbl": "code", "hdr": "Code"}]
+}
