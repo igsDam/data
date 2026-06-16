@@ -1,0 +1,22 @@
+{
+  "rpt": "mtr.rej01",
+  "fmt": "html",
+  "title": "Miss reference master data list",
+  "footer": "Total ({rec}) record(s)",
+  "margin": "5",
+  "sql": "select * from tmp_stg.sg_msg order by type, form, code",
+  "columns": [
+    {
+      "field": "form",
+      "header": "BMC Form"
+    },
+    {
+      "field": "type",
+      "header": "table"
+    },
+    {
+      "field": "code",
+      "header": "code"
+    }
+  ]
+}

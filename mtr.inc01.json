@@ -1,0 +1,72 @@
+{
+  "rpt": "mtr.inc01",
+  "fmt": "html",
+  "title": "Incident Validation Report",
+  "footer": "Total ({rec}) record(s)",
+  "margin": "5",
+  "sql": "select number, description, custom_data -> 'values' ->> 'Detailed Decription' as src_dsc, short_description, opened_at, due_date, state, category, custom_data -> 'values' ->> 'Categorization Tier 1' as src_cat, sub_category, priority, resolved_at, resolved_at, custom_data -> 'values' ->> 'Incident Number' as inc from tmp_stg.sg_itsm where filter = 'HPD'",
+  "columns": [
+    {
+      "field": "number",
+      "header": "incident number"
+    },
+    {
+      "field": "description",
+      "header": "Desc",
+      "width": 200,
+      "max": 200
+    },
+    {
+      "field": "src_dsc",
+      "header": "src_dsc",
+      "width": 200,
+      "max": 200
+    },
+    {
+      "field": "comp_dsc",
+      "header": "comp_dsc",
+      "func": "cmp.(description,src_dsc)"
+    },
+    {
+      "field": "short_description",
+      "header": "short desc"
+    },
+    {
+      "field": "opened_at",
+      "header": "Opened AT"
+    },
+    {
+      "field": "due_date",
+      "header": "due Date"
+    },
+    {
+      "field": "state",
+      "header": "STATE"
+    },
+    {
+      "field": "category",
+      "header": "Category"
+    },
+    {
+      "field": "src_cat",
+      "header": "src_cat"
+    },
+    {
+      "field": "comp_cat",
+      "header": "comp_cat",
+      "func": "cmp.(category,src_cat)"
+    },
+    {
+      "field": "sub_category",
+      "header": "SUB-category"
+    },
+    {
+      "field": "priority",
+      "header": "PRI"
+    },
+    {
+      "field": "resolved_at",
+      "header": "Resolved AT"
+    }
+  ]
+}
